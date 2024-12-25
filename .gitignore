@@ -1,0 +1,33 @@
+# Target directory for compiled binaries
+/target/
+
+# Debug log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files (e.g., created by editors)
+*.bak
+*.swp
+*.swo
+
+# IDE or editor-specific files
+# VS Code
+.vscode/
+*.code-workspace
+
+# IntelliJ IDEA/CLion
+.idea/
+*.iml
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Node.js if using frontend in the same repo
+node_modules/
